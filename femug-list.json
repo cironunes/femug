@@ -45,6 +45,16 @@
         "Daniel Castro",
         "Elias de Oliveira"
       ]
+    }],
+    "FEMUG-MG": [{
+      "capitulo": "estadual",
+      "sede": "Belo Horizonte, MG",
+      "url": "https://groups.google.com/forum/#!forum/femug-mg",
+      "formulario-anfitriao": "",
+      "fundador": "Ciro Nunes",
+      "moderadores": [
+        "Ciro Nunes"
+      ]
     }]
   }
 }
